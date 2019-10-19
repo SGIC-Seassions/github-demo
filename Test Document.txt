@@ -1,6 +1,14 @@
+Chella Kutty:
+	Hungry !!!
+NinjA:
+have fun Byddy!
+
+
 Keerththanan P.:
+
 	All please follow this format.
 	First Name, Use colon, In the next line indent with a TAB and provide a short description. one or may be two lines.
+<<<<<<< HEAD
 	
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14,10 +22,15 @@ Sasikumar S.:
 	Dont follow this format
 	First Name, Use Full Stop ,In the next line don't provide any descriptions It's very dangerous.	
 >>>>>>> 64f17826f8909a930ec6eec0b9527a647b0bb86a
+=======
+		
+
+>>>>>>> aab10eaa91380fc390c1581b60b2f36400c1be0e
 Kitty:
 	Summa oru line.
 	Virumpinaa rendaavthu line.
 	Moondaavathu endaalum paravaalla........
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> b7e2ad8e4fe53c0e5b434c1d62013a3e51ea2ace
 =======
@@ -28,3 +41,51 @@ Nilogithan S:
 	Hello World !
 >>>>>>> 69594c962051e8522fc2a264729b85570ea17ee1
 >>>>>>> 64f17826f8909a930ec6eec0b9527a647b0bb86a
+=======
+
+Nilogithan S:
+	Hello World !
+Balasankar:
+	Your last mistake is your best teacher!
+kiri:
+        hi
+how are you
+
+Sangarlal S.:
+	nothing
+	summa
+
+
+Nilogithan S:
+	Hello World !
+
+<<<<<<< HEAD
+S Jathurshan:
+	summa oru line 
+	viruppinathuku oru line
+	pona pohuthu 3vathu line................
+=======
+
+Suhirthashini M.:
+	My first git demo.
+	
+>>>>>>> 4facfab19474cbeb3e0d1b0f166e3e639d863b8f
+Kavidha B.:
+	Modify file TestDocument.txt
+
+	
+	
+	Ayinkaran	
+	hello bro;	
+	
+	Matheews sathurshan	
+			yemma saami mudiyala!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+			
+Sasikumar S.:
+	Dont follow this format
+	First Name, Use Full Stop ,In the next line don't provide any descriptions It's very dangerous.
+	
+	First Name, Use Full Stop ,In the next line don't provide any descriptions It's very dangerous.	
+
+
+>>>>>>> aab10eaa91380fc390c1581b60b2f36400c1be0e
