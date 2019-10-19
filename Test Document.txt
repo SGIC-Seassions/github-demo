@@ -13,8 +13,6 @@ kiri:
         hi
 how are you
 
-Nilogithan S:
-	Hello World !
 
 
 
