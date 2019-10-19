@@ -14,6 +14,10 @@ Keerththanan P.:
 Sasikumar S.:
 	Dont follow this format
 	First Name, Use Full Stop ,In the next line don't provide any descriptions It's very dangerous.	
+Kajarupan :
+	Git Demo Class
+	Sgic @ thinailvaly 
+
 	
 	Ayinkaran	
 	hello bro;	
