@@ -1,8 +1,12 @@
-Vinojen S.:
+.:
 	All please follow this format.
 	First Name, Use colon, In the next line indent with a TAB and provide a short description. one or may be two lines.
 	
+
+VINOJEN S.
+      HI
 Kitty:
 	Summa oru line.
 	Virumpinaa rendaavthu line.
 	Moondaavathu endaalum paravaalla........
+
