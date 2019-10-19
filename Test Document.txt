@@ -9,20 +9,27 @@ Keerththanan P.:
 	All please follow this format.
 	First Name, Use colon, In the next line indent with a TAB and provide a short description. one or may be two lines.
 		
-<<<<<<< HEAD
 	
 Kajamugan:
 	      Mindset is everything.
 		  Success is not key to happiness.
+	
 
+Kajarupan :
+	Git Demo Class
+	Sgic @ thinailvaly 
+
+	
+	Ayinkaran	
+	hello bro;	
+	
 	Matheews sathurshan	
 			yemma saami mudiyala!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 			
 Sasikumar S.:
 	Dont follow this format
 	First Name, Use Full Stop ,In the next line don't provide any descriptions It's very dangerous.	
-=======
->>>>>>> cb7fa675053c69fe9f8190b091e0dd3ffb5e6eef
+
 
 Kitty:
 	Summa oru line.
@@ -56,7 +63,6 @@ Suhirthashini M.:
 Kavidha B.:
 	Modify file TestDocument.txt
 
-	
 	
 	Ayinkaran	
 	hello bro;	
