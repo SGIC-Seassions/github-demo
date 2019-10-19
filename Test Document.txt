@@ -29,17 +29,14 @@ Sangarlal S.:
 Nilogithan S:
 	Hello World !
 
-<<<<<<< HEAD
 S Jathurshan:
 	summa oru line 
 	viruppinathuku oru line
 	pona pohuthu 3vathu line................
-=======
 
 Suhirthashini M.:
 	My first git demo.
 	
->>>>>>> 4facfab19474cbeb3e0d1b0f166e3e639d863b8f
 Kavidha B.:
 	Modify file TestDocument.txt
 
