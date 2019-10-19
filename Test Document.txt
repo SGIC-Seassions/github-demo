@@ -1,18 +1,14 @@
 Keerththanan P.:
 	All please follow this format.
 	First Name, Use colon, In the next line indent with a TAB and provide a short description. one or may be two lines.
-	
 
-Kavidha B.:
-	Modify file TestDocument.txt
-	
 Kitty:
 	Summa oru line.
 	Virumpinaa rendaavthu line.
 	Moondaavathu endaalum paravaalla........
-<<<<<<< HEAD
-=======
 
 Nilogithan S:
 	Hello World !
->>>>>>> 69594c962051e8522fc2a264729b85570ea17ee1
+
+Kavidha B.:
+	Modify file TestDocument.txt
