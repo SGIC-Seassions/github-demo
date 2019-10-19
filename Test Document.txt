@@ -1,7 +1,7 @@
 Keerththanan P.:
 	All please follow this format.
 	First Name, Use colon, In the next line indent with a TAB and provide a short description. one or may be two lines.
-	
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 	VithushanT:
@@ -18,13 +18,3 @@ Kitty:
 	Summa oru line.
 	Virumpinaa rendaavthu line.
 	Moondaavathu endaalum paravaalla........
-<<<<<<< HEAD
->>>>>>> b7e2ad8e4fe53c0e5b434c1d62013a3e51ea2ace
-=======
-<<<<<<< HEAD
-=======
-
-Nilogithan S:
-	Hello World !
->>>>>>> 69594c962051e8522fc2a264729b85570ea17ee1
->>>>>>> 64f17826f8909a930ec6eec0b9527a647b0bb86a
