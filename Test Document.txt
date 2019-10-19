@@ -1,5 +1,10 @@
-Keerththanan P.:
+Jeyaamuthan S.:
 	All please follow this format.
 	First Name, Use colon, In the next line indent with a TAB and provide a short description. one or may be two lines.
 	
-	
+GitHup Demo:
+	git init
+	git clone
+	git commit
+	git pull
+	git push
