@@ -2,7 +2,14 @@ Keerththanan P.:
 	All please follow this format.
 	First Name, Use colon, In the next line indent with a TAB and provide a short description. one or may be two lines.
 	
+<<<<<<< HEAD
 	VithushanT:
 		summa oru line
 		virumpina irandavathu
 		sari mundavathum paravalla
+=======
+Kitty:
+	Summa oru line.
+	Virumpinaa rendaavthu line.
+	Moondaavathu endaalum paravaalla........
+>>>>>>> b7e2ad8e4fe53c0e5b434c1d62013a3e51ea2ace
