@@ -2,6 +2,12 @@ Keerththanan P.:
 	All please follow this format.
 	First Name, Use colon, In the next line indent with a TAB and provide a short description. one or may be two lines.
 	
+
+Kitty:
+	Summa oru line.
+	Virumpinaa rendaavthu line.
+	Moondaavathu endaalum paravaalla........
+	
 Kajaluxshan S.:	
 IND vs SA:
 	Match delayed due to bad light 
@@ -10,11 +16,7 @@ IND vs SA:
 	Rahane 83*
 	King Kholi 12  #LOL
 
--------------------------------------------------------------------------------------------------------------
-Kitty:
-	Summa oru line.
-	Virumpinaa rendaavthu line.
-	Moondaavathu endaalum paravaalla........
+
 
 Nilogithan S:
 	Hello World !
