@@ -1,8 +1,6 @@
-mithushan:
-	I am IRON MAN.
-	save earth
+Keerththanan P.:
+	All please follow this format.
+	First Name, Use colon, In the next line indent with a TAB and provide a short description. one or may be two lines.
 	
-Kitty:
-	Summa oru line.
-	Virumpinaa rendaavthu line.
-	Moondaavathu endaalum paravaalla........
+Mithushan 
+	Save Earth
