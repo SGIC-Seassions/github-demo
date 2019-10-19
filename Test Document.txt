@@ -2,27 +2,17 @@ Keerththanan P.:
 	All please follow this format.
 	First Name, Use colon, In the next line indent with a TAB and provide a short description. one or may be two lines.
 		
-	
-	
-	Matheews sathurshan	
-			yemma saami mudiyala!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-			
-Sasikumar S.:
-	Dont follow this format
-	First Name, Use Full Stop ,In the next line don't provide any descriptions It's very dangerous.	
 
 Kitty:
 	Summa oru line.
 	Virumpinaa rendaavthu line.
 	Moondaavathu endaalum paravaalla........
 
+Balasankar:
+	Your last mistake is your best teacher!
 kiri:
         hi
 how are you
-
-
-
-
 
 Sangarlal S.:
 	nothing
@@ -32,10 +22,32 @@ Sangarlal S.:
 Nilogithan S:
 	Hello World !
 
+<<<<<<< HEAD
 S Jathurshan:
 	summa oru line 
 	viruppinathuku oru line
 	pona pohuthu 3vathu line................
+=======
+
+Suhirthashini M.:
+	My first git demo.
+	
+>>>>>>> 4facfab19474cbeb3e0d1b0f166e3e639d863b8f
 Kavidha B.:
 	Modify file TestDocument.txt
+
+	
+	
+	Ayinkaran	
+	hello bro;	
+	
+	Matheews sathurshan	
+			yemma saami mudiyala!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+			
+Sasikumar S.:
+	Dont follow this format
+	First Name, Use Full Stop ,In the next line don't provide any descriptions It's very dangerous.
+	
+	First Name, Use Full Stop ,In the next line don't provide any descriptions It's very dangerous.	
+
 
